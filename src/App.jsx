@@ -69,7 +69,7 @@ const App = () => {
   const streamIntervalRef = useRef(null);
   const recognitionRef = useRef(null);
 
-  const apiKey = "AIzaSyAXjS_yo2ScKaSqlB5QYNa6yDairii0_RY"; 
+  const apiKey = "YOUR_GEMINI_API_KEY";
   const AI_NAME = "Proxis";
   const SYSTEM_PROMPT = "You are Proxis, a Large Language model Created by RonzDavil. Be natural, friendly, helpful, and concise. Use markdown for formatting.";
 
